@@ -1,7 +1,7 @@
 
 # DuePulseProgrammer
  
-Turns an arduino due into a high speed dual channel pulser. 
+Turns an arduino due into a high speed dual channel pulser, which is runtime programmable through a GUI.
 
 Features:
 1. Two digital channels
